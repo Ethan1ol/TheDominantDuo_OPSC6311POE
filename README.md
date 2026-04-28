@@ -29,4 +29,28 @@ After Login you cant go back to login you have to restart the application to get
 
 Step 3
 Homepage of the app, allows you to add new categories and view them
+<img width="219" height="416" alt="image" src="https://github.com/user-attachments/assets/12cfb024-6150-42aa-afe9-c9acfa6ebe76" />
+
+Each Category can be viewed and expenses can be added with every entry
+<img width="224" height="123" alt="image" src="https://github.com/user-attachments/assets/b045348d-87c6-4343-b495-232d48cfa431" />
+<img width="217" height="362" alt="image" src="https://github.com/user-attachments/assets/9af170ff-64b1-48fc-944a-cff7a52c8a27" />
+With the user Maxium and Minimum amount for the category, add date ranges and add a photo to the category
+
+Step 4
+To keep track of your expenses, say how much u spent for the month
+<img width="225" height="365" alt="image" src="https://github.com/user-attachments/assets/9e317502-23c4-4dd5-b32c-146a0cb3c859" />
+it will turn green if you under the max amount and red if its over
+<img width="215" height="201" alt="image" src="https://github.com/user-attachments/assets/d02f64c5-90d6-4132-9bdb-1296f5417c7d" />
+
+Step 5
+Allows you to search through the Category entries set for certain dates
+<img width="218" height="380" alt="image" src="https://github.com/user-attachments/assets/108cdf01-9189-4777-a7bd-076152d3aacb" />
+and the same will happen with the Categories it will only show the total amount for the months asked for
+
+
+
+
+
+
+
 
