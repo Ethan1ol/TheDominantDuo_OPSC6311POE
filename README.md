@@ -81,8 +81,26 @@ May
 <img width="255" height="344" alt="image" src="https://github.com/user-attachments/assets/dcf2b61a-8491-45a9-aeae-1b37f76370b7" />
 
 Feature 1
+Goal system
+The goal system is a savings category. It allows the user to create a saving goal where the user can enter different amounts of savings that theyve made and put into their goal. The goal will visually represent if as a good job feature letting the user know that they made good progress with their saving.keeping them motivated and have a light mood.
+This is the Icon 
+
+
+
+This is where you will enter the savinging amount and the goal will be measured off the amount you saved that you have entered.
+
+
 
 Feature 2
+Priority feature
+This feature will allow the user to rate their category priority from 0-9 with 0 being the lowest and 9 being the highest priority. It appears on the side of the category box, as a number from 0=9. Thus allow the user to focus on the most important categories/expenses. This feature can also be used in the savings category allowing a user to prioritize their savings as well. The category will be organized in the order of its importantance having the prioritized ones at the top of the list.
+
+this is the area you rate how important it is
+
+
+
+
+example of the priority list starting from most important
 
 
 
