@@ -47,6 +47,42 @@ Allows you to search through the Category entries set for certain dates
 <img width="218" height="380" alt="image" src="https://github.com/user-attachments/assets/108cdf01-9189-4777-a7bd-076152d3aacb" />
 and the same will happen with the Categories it will only show the total amount for the months asked for
 
+New Features POE Final
+<img width="242" height="91" alt="image" src="https://github.com/user-attachments/assets/877d057e-914e-4a20-85a2-cdcc6b0354ef" />
+<img width="243" height="91" alt="image" src="https://github.com/user-attachments/assets/7fe11662-7c13-4cd4-b74e-8f84be340b28" />
+<img width="239" height="89" alt="image" src="https://github.com/user-attachments/assets/67921e8e-c50c-40f9-9eb9-e7c7d98bb25c" />
+
+This images shows the visual format such as a progress bar that tells a user how close or far over the user is from their max vs min goal. With a text that tells them they either below or above min or max goals. Each of these category consit of subcategories whose spent amounts, max goals, min goals each cobmines to make the total Spent amount, min goal and max goal.
+
+Subcategories
+<img width="250" height="318" alt="image" src="https://github.com/user-attachments/assets/1c7848a3-5a40-41f9-aed4-38c374bd3eef" />
+Each of these also contain their own date, amount spent, min and max goals and allows you to add new expenses. all new spent, min and max goals added makes a new final category total spent amount, min goal and max goal
+
+The Graph
+<img width="235" height="178" alt="image" src="https://github.com/user-attachments/assets/e493e046-b701-4882-af2b-914c253c4abe" />
+Conatins all categories with max, min and total amounts for the month.
+The green line indicating the min amount 
+the red indicating max amount.
+The category for example is food and the total spent for the category food is the R1100
+
+Drop down
+<img width="246" height="50" alt="image" src="https://github.com/user-attachments/assets/c5773aea-592e-47be-9e2f-8941c31cf126" />
+All is a drop down feature which will show only the graph and the categories of the corrisponding month
+Jan month chosen
+<img width="246" height="414" alt="image" src="https://github.com/user-attachments/assets/0e383739-72e7-47e9-94f5-2563b2e83d4e" />
+This shows everything in jan
+
+June
+<img width="247" height="295" alt="image" src="https://github.com/user-attachments/assets/ea2795f5-2058-4c74-830e-abad1e2a784f" />
+
+This shows everything in june
+
+May
+<img width="255" height="344" alt="image" src="https://github.com/user-attachments/assets/dcf2b61a-8491-45a9-aeae-1b37f76370b7" />
+
+Feature 1
+
+Feature 2
 
 
 
