@@ -84,6 +84,8 @@ Feature 1
 Goal system
 The goal system is a savings category. It allows the user to create a saving goal where the user can enter different amounts of savings that theyve made and put into their goal. The goal will visually represent if as a good job feature letting the user know that they made good progress with their saving.keeping them motivated and have a light mood.
 
+<img width="431" height="917" alt="image" src="https://github.com/user-attachments/assets/6ca9efc7-42b8-46fd-bcde-df59fb50dc08" />
+
 
 This is the Icon 
 
